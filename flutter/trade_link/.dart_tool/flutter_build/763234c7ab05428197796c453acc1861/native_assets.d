@@ -1,0 +1,1 @@
+ C:\\Users\\Blxck\ Peppa\\Desktop\\flutter\\trade_link\\.dart_tool\\flutter_build\\763234c7ab05428197796c453acc1861\\native_assets.yaml: 

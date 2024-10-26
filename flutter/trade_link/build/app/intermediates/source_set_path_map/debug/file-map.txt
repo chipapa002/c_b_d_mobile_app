@@ -1,0 +1,11 @@
+com.example.trade_link.app-jetified-annotation-experimental-1.1.0-0 C:\Users\Nndamulele\.gradle\caches\transforms-3\26090c916fbd275facfe5763da16e6d3\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.trade_link.app-jetified-window-1.0.0-beta04-1 C:\Users\Nndamulele\.gradle\caches\transforms-3\b5710c0e80a7d6dcef59baf5c83fea95\transformed\jetified-window-1.0.0-beta04\res
+com.example.trade_link.app-core-1.6.0-2 C:\Users\Nndamulele\.gradle\caches\transforms-3\d39d6994eee42d879cab378787ca7ad3\transformed\core-1.6.0\res
+com.example.trade_link.app-jetified-window-java-1.0.0-beta04-3 C:\Users\Nndamulele\.gradle\caches\transforms-3\d3aa6e068973bdae3242bc13500ac8de\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.trade_link.app-debug-4 C:\flutterApps\flutter (1)\flutter\trade_link\android\app\src\debug\res
+com.example.trade_link.app-main-5 C:\flutterApps\flutter (1)\flutter\trade_link\android\app\src\main\res
+com.example.trade_link.app-pngs-6 C:\flutterApps\flutter (1)\flutter\trade_link\build\app\generated\res\pngs\debug
+com.example.trade_link.app-resValues-7 C:\flutterApps\flutter (1)\flutter\trade_link\build\app\generated\res\resValues\debug
+com.example.trade_link.app-packageDebugResources-8 C:\flutterApps\flutter (1)\flutter\trade_link\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.trade_link.app-packageDebugResources-9 C:\flutterApps\flutter (1)\flutter\trade_link\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.trade_link.app-merged_res-10 C:\flutterApps\flutter (1)\flutter\trade_link\build\app\intermediates\merged_res\debug
